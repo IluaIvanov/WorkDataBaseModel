@@ -1,0 +1,1 @@
+A class that allows you to edit, add and delete data from the database using a single method while using models
